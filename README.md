@@ -2,7 +2,7 @@
 
 # 👋 Привет! Я Валера
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Создаю+красивые+веб-приложения)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Создаю+красивые+веб-приложения)](https://git.io/typing-svg)
 
 </div>
 
