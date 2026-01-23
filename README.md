@@ -44,13 +44,3 @@ const valera = {
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,react,nextjs,redux,nestjs,express,graphql,postgres,mysql,prisma,vite,npm,yarn,vitest,docker,nginx,git,github,gitlab,figma,postman,vscode&perline=14)](https://skillicons.dev)
 
 </div>
-
----
-
-## 📊 GitHub Статистика
-
-<div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ValeryIsDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-</div>
