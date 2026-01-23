@@ -51,6 +51,6 @@ const valera = {
 
 <div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ValeryIsDev&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ValeryIsDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 </div>
